@@ -1,0 +1,22 @@
+/* Write your code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  font-size: 40px;
+}
+button {
+  background-color: indigo;
+  border: solid 0px transparent;
+  margin: 20px;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+.btn {
+  display: flex;
+  flex-direction: column;
+}
